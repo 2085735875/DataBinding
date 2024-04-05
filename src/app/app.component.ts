@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'DataBinding';
+  // skills = ["HTML", "CSS", "JS", "ANGULAR", "SASS", "NODE JS"]
+
 }
